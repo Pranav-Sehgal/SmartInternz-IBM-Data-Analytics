@@ -1,2 +1,2 @@
-# IBM-Watson-Studio
-Data Science Course
+# SmartInternz Externship - IBM Data Analytics
+
